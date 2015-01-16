@@ -6,3 +6,6 @@ for (User user:users) { ... }
 你想写 
 Date birthday = user.getBirthday()
 只需要输入 user.getBirthday().var 再按tab就行了。IDEA会自动推断赋值类型和生成默认的变量名称。
+
+### ideavim
+http://kidneyball.iteye.com/blog/1828427
