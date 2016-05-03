@@ -1,3 +1,11 @@
+# mac 软件
+1. cheetsheet
+2. vimium
+3. karabiner
+4. SourceTree
+5. vscode
+6. dashnote
+
 # IntelliJ-IDEA-tip
 ###Postfix Completion  
 比如说，你想写 
