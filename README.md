@@ -20,3 +20,4 @@ http://kidneyball.iteye.com/blog/1828427
 
 ### 文件操作
 * 在左侧project视图定位打开的文件:fn+alt+F1,然后选project view
+* 打开、关闭控制台:fn+alt(win)+F12
